@@ -1,0 +1,26 @@
+{
+  "name": "node_phonebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mysql2": "^2.2.5",
+    "path": "^0.12.7",
+    "requirejs": "^2.3.6",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0",
+    "serialize-javascript": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
