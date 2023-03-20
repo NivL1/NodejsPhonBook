@@ -1,7 +1,6 @@
 # NodejsPhonBook
 
-Simple Nodejs phone book http server.
-The system designed to handle multiple database connection options.
+Simple Nodejs phone book http server
 
 
 # Run with Docker Compose
